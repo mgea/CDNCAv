@@ -23,10 +23,6 @@ Realizado con: [https://www.draw.io](https://www.draw.io)
 
 ---
 
-Imagenes 
-
-![FedeCatBot](!https://github.com/mgea/CDNCAv/blob/master/ChatBot/fedeCat.png)
-
 Ficha 
 
 ![Ficha FedeCat2Bot](https://github.com/mgea/CDNCAv/blob/master/ChatBot/Ficha_FedeCat2Bot.png)
