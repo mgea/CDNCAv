@@ -8,7 +8,9 @@ Material creado para explorar nuevas formas de narraccion y creacion de contenid
 utilizando remix y crowdsourcing
 
 
-Update: 1/02/2018
+Update: 1/02/2019
 
 Proyectos H R U N para Crowdsourcing Storytelling en: https://github.com/mgea/storytelling
 
+
+- Recursos para crear un Chatbot en Telegram: ejemplo de [FedeCat2Bot](https://github.com/mgea/CDNCAv/tree/master/ChatBot) 
