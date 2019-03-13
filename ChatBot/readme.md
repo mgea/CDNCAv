@@ -8,5 +8,10 @@
 Recursos de @FedeCat2bot (de telegram)
 
 
-Diagrama:
+![Telegram](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-128.png =50) Telegram: [https:/t.me/FedeCat2bot](https:/t.me/FedeCat2bot)
+
+
+Diagrama: [enlace Web](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=FedeCatBot#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1NNBOf8VXlUIO-EB5xKKLpZDiJHkuhgTz%26export%3Ddownload). [XML](https://github.com/mgea/CDNCAv/blob/master/ChatBot/FedeCat2Bot.xml)
+
+
 ![Diagrama FedeCat2bot](https://github.com/mgea/CDNCAv/blob/master/ChatBot/FedeCat2Bot.png)
