@@ -7,10 +7,7 @@ Grado en Comunicación Audiovisual
 Material creado para explorar nuevas formas de narraccion y creacion de contenidos 
 utilizando remix y crowdsourcing
 
-
-Ejemplos:
-
-- Recursos para crear un Chatbot en Telegram: ejemplo de [FedeCat2Bot](https://github.com/mgea/CDNCAv/tree/master/ChatBot) 
+He creado un chatbot llamado Granáimon.
 
 
 Granada, 2020
