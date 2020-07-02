@@ -12,6 +12,8 @@ Profesores:
 
 Versión Web online: https://utopolis.ugr.es/media/cdncav/
 
-(novela visual monogtari funciona en Chrome)
+(novela visual monogatari funciona en Chrome)
+
+Presentacion realizada con reveal.js https://github.com/hakimel/reveal.js/ 
 
 Granada, junio 2020
