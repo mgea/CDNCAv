@@ -1,16 +1,15 @@
 # CDNCAv
 Creacion y Difusion de Nuevos Contenidos Audiovisuales
-
 Grado en Comunicación Audiovisual
 
 
-Material creado para explorar nuevas formas de narraccion y creacion de contenidos 
-utilizando remix y crowdsourcing
+Presentacion de la asignatura 
+Profesores: 
+
+- Jordi Alberich 
+- Miguel Gea 
 
 
-Ejemplos:
+Versión Web online: https://utopolis.ugr.es/media/cdncav/
 
-- Recursos para crear un Chatbot en Telegram: ejemplo de [FedeCat2Bot](https://github.com/mgea/CDNCAv/tree/master/ChatBot) 
-
-
-Granada, 2020
+Granada, junio 2020
