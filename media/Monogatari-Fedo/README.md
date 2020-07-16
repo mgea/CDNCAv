@@ -1,3 +1,16 @@
+Monogatari Visual Novel Engine, v. 1.4.1. https://monogatari.io
+Proyecto las aventuras de Fedo (2016)
+
+    Realizada por: María Lopez Soler, Fede Yedra, Elena
+    Creación y Difusion de Nuevos contenidos audiovisuales, B
+    Facultad de Comunicación y Documentación 
+    
+
+
+
+
+
+
 # Monogatari
 Built to bring Visual Novels to the modern web and take them to the next level, making it easy for anyone to create and distribute Visual Novels in a simple way so that anyone can enjoy them on pretty much anywhere, create games with features that no one has ever imagined... it is time for Visual Novels to Evolve.
 

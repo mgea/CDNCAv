@@ -42,7 +42,7 @@ let engine = {
 	"MultiLanguage": false,
 
 	// Music for the Main Menu.
-	"MenuMusic": "SonidoOficina.mp3",
+	"MenuMusic": "",
 
 	// Prefix for the Save Slots in Local Storage.
 	"SaveLabel": "Save_",
