@@ -2,7 +2,9 @@
 Monogatari Visual Novel Engine, v. 1.4.1. https://monogatari.io Proyecto las aventuras de Fedo (2016)
 
 Realizada por: María Lopez Soler, Fede Yedra, Elena
+
 Creación y Difusion de Nuevos contenidos audiovisuales, B
+
 Facultad de Comunicación y Documentación 
 
 
