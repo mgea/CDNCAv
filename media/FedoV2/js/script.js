@@ -62,7 +62,7 @@ monogatari.configuration ('credits', {
 		"Message": `
             <p>- María Lopez Soler </p> 
 			<p>- Fede Yedra </p>
-            <p>- Elena </p> 
+            <p>- Elena Galán</p> 
 			
 			<p>Personaje: ¿? </p> 
 			<p>Escenario: Facultad de Documentación y Comunicación, Universidad de Granada </p>`
