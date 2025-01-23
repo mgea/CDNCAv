@@ -1,12 +1,14 @@
 # CDNCAv
-Creacion y Difusion de Nuevos Contenidos Audiovisuales
+**Creatividad e Innovación Audiovisual** 
+
+Basada en Creación y Difusion de Nuevos Contenidos Audiovisuales 2015-2024 (jordi alberich & miguel gea) 
+
 Grado en Comunicación Audiovisual
 
 
 Presentacion de la asignatura 
 Profesores: 
-
-- Jordi Alberich 
+- Carlos Linares 
 - Miguel Gea 
 
 
@@ -16,4 +18,4 @@ Versión Web online: https://utopolis.ugr.es/media/cdncav/
 
 Presentacion realizada con reveal.js https://github.com/hakimel/reveal.js/ 
 
-Granada, junio 2020
+Granada, enero 2025
