@@ -27,3 +27,5 @@ Ficha
 
 ![Ficha FedeCat2Bot](https://github.com/mgea/CDNCAv/blob/master/ChatBot/Ficha_FedeCat2Bot.png)
 
+![Ficha actualizada](https://github.com/mgea/CDNCAv/blob/master/ChatBot/FedeCatBot25.png)
+
