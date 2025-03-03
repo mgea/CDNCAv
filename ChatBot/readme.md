@@ -27,5 +27,7 @@ Ficha
 
 ![Ficha FedeCat2Bot](https://github.com/mgea/CDNCAv/blob/master/ChatBot/Ficha_FedeCat2Bot.png)
 
+Ficha actualizada realizada con [Excalidraw](https://excalidraw.com/) usando este [template](https://github.com/mgea/my_storytelling/blob/main/ficha_personaje.excalidraw) 
+
 ![Ficha actualizada](https://github.com/mgea/CDNCAv/blob/master/ChatBot/FedeCatBot25.png)
 
